@@ -11,7 +11,6 @@ public class Exercise32 {
 
     public static void main(String[] args) {
         printToFile("Hola");
-        printToFile("Me gustan los videojuegos");
     }
 
     public static String generateStringToSave(String string) {
