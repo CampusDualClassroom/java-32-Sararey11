@@ -15,7 +15,7 @@ public class Exercise32 {
     }
 
     public static String generateStringToSave(String string) {
-        String result = "Inicio " + string + " Fin";
+        String result = "Inicio, " + string + " , fin";
         result = string;
         return string;
     }
